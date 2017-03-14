@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "916018467034",
+    "firebase_url": "https://thelist-1e4d8.firebaseio.com",
+    "project_id": "thelist-1e4d8",
+    "storage_bucket": "thelist-1e4d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916018467034:android:20106e1be96f9faa",
+        "android_client_info": {
+          "package_name": "com.example.paullucero.thelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916018467034-nb85cldg5m1s0cbi7i7s8ic44msi2pca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj39_egx6si5RreL3yXiuM4XGpKwNQouI"
+        },
+        {
+          "current_key": "AIzaSyDMX1mmgEmjo6Y70jyG9BxwHjyDkazV-uA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

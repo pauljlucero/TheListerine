@@ -39,7 +39,7 @@
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="76dp"
                     android:hint="Enter Name"
-                    android:textColor=""
+                    android:textColor="#000000"
                     android:textSize="24sp"
                     android:textStyle="bold" />
 

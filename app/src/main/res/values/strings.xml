@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TheList</string>
+    <string name="no_internet_connection">Couldn\'t Connect To The Internet</string>
+    <string name="unknown_error">Something weird happened, couldn\'t sign you in.</string>
 </resources>
