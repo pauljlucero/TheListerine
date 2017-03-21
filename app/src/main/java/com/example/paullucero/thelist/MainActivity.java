@@ -1,5 +1,4 @@
 package com.example.paullucero.thelist;
-
 import android.content.Intent;
 import android.net.Uri;
 import android.provider.MediaStore;
@@ -8,12 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private static final int RESULT_LOAD_IMAGE = 1;
     ImageView imageToUpload;
     Button bUploadImage;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

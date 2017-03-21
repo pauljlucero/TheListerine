@@ -7,18 +7,13 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <ImageView
-                android:id="@+id/cover_image"
-                android:layout_width="match_parent"
-                android:layout_height="200dp"
-                android:scaleType="centerCrop" />
-
             <ImageButton
                 android:id="@+id/imageToUpload"
                 android:layout_width="120dp"
                 android:layout_height="120dp"
                 android:background="@color/colorPrimaryDark"
                 android:elevation="5dp"
+                android:layout_marginTop="15dp"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true" />
             <Button
@@ -38,10 +33,10 @@
                 android:background="@color/colorAccent"
                 android:paddingTop="174dp">
 
-
                 <RatingBar
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    a
                     android:id="@+id/ratingBar"
                     android:layout_centerHorizontal="true"
                     />
